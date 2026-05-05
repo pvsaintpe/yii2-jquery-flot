@@ -1,5 +1,6 @@
 {
 	"name": "machour/yii2-jquery-flot",
+	"version": "dev-master",
 	"description": "jQuery Flot Charts extension for the Yii 2 framework",
 	"keywords": ["yii", "flot", "jquery", "chart"],
 	"type": "yii2-extension",
